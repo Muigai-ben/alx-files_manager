@@ -1,0 +1,25 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^4.6.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muigai-ben/alx-files_manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muigai-ben/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/Muigai-ben/alx-files_manager#readme"
+}
+
