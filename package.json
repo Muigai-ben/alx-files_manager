@@ -4,6 +4,7 @@
   "description": "This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.19.2",
     "mangodb": "^1.0.0",
     "redis": "^4.6.14"
   },
