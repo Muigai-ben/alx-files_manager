@@ -63,4 +63,4 @@ class DBClient {
 }
 
 export const dbClient = new DBClient();
-export default dbClient;
+export default dbClie;
